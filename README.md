@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dazzakelly95
-- 👀 I’m interested in Java/JavaScript
+- 👀 I’m interested in Business Analytics
 - 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
